@@ -1,9 +1,11 @@
 # MyExplorations
-This repository contains materials/documents/codes i have found out in my career.
+
+## ::: flipkart_scraper.py :::
+crawling and retrieving data
 
 
 
-::: index.py :::
+## ::: index.py :::
 
 Time Consumed : 953.208 seconds
 Memory Consumed : 3.8GB
@@ -13,7 +15,7 @@ I have used Counter to combine the dictionaries of all the chunks.
 
 
 
-::: unique.py :::
+## ::: unique.py :::
 
 
 
